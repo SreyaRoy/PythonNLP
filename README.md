@@ -1,1 +1,2 @@
 # PythonNLP
+- My objective was to create a Python-based sentiment analysis model for musical reviews. I aimed to automatically classify the sentiment as positive or negative in these reviews. I utilized Python libraries, such as NLTK for text processing (tokenization, stemming, and lemmatization) and scikit-learn for feature extraction, including the implementation of a Random Forest Classifier. This analysis aimed to understand customer sentiments and preferences in musical experiences.
